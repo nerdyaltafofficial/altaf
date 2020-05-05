@@ -1,5 +1,6 @@
 window.onload = () => {
   console.log('Hello');
+  console.log('nausher');
   // Initial State
   const num = 9;
   let turn = 1;
